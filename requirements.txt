@@ -1,0 +1,13 @@
+pandas 
+notebook          #helps while sharing, they don't need to install separately
+numpy
+scikit-learn
+matplotlib
+python-box==6.0.2
+pyYAML            # to 'r','w' yaml files need this package
+ensure==1.0.2
+joblib            # to save my model
+types-PyYAML
+Flask             # to build web app, create API we r using flask package
+Flask-Cors
+-e .              # this will findout setup.py n install it automatically
