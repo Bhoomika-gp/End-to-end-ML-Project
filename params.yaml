@@ -2,3 +2,4 @@
 #instead of hardcoding few values inside components can keep params in params.yaml
 #later on want to change params cn chage here & it will reflct in evry code
 #not necessary to write always, use params.yaml whnevr writing model trainer compont 
+key : value
